@@ -16,7 +16,7 @@ pip install geometryobject
 
 Usage
 --
-import geometyobject2d as obj2d;<br><br>
+import geometyobject as obj2d;<br><br>
 #To print square object<br>
 obj2d.printSquare(5)<br>
 #5 is side length<br>
