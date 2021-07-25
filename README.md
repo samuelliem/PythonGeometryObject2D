@@ -12,7 +12,7 @@ Installation
 --
 Run the following to install:
 
-pip install geometryobject2d
+pip install geometryobject
 
 Usage
 --
