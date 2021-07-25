@@ -1,5 +1,5 @@
 # PythonGeometryObject2D
-In this practice, i make my own distribution to make some 2D Geometry Object
+In this practice, i make my own distribution to print some 2D Geometry Object
 
 Which have feature to prints
 --
